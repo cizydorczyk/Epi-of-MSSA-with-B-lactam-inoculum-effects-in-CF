@@ -2,4 +2,6 @@
 
 This is a respository for the manuscript "Epidemiology and impact of methicillin-sensitive Staphylococcus aureus with β-lactam antibiotic inoculum effects in adults with cystic fibrosis".
 
-The python script used to get blaZ types is found here.
+The sa17 python script was used to extract *blaZ* sequences from Bakta annotations.
+
+The sa16 script was used to type individual *blaZ* genes.
